@@ -1,0 +1,3 @@
+= CoffeeHandler
+
+Adds coffee and coffeerb template handlers
